@@ -9,4 +9,5 @@
 
 This is how it looks!
 
-![gif](./netflixclone.mp4)
+![gif](./netflixclone.png)
+
