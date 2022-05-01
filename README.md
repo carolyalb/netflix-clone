@@ -9,5 +9,5 @@
 
 This is how it looks!
 
-![gif](./netflixclone.png)
+![image](./netflixclone.PNG)
 
